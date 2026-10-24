@@ -1,0 +1,25 @@
+{
+  "name": "BCD",
+  "identifier": "com.gilmatsliah.bcd.source",
+  "subtitle": "Unofficial AltStore and SideStore source for BCD",
+  "description": "Unofficial source tracking IPA releases from thebcd69/bcd-games. Downloads come directly from the upstream repository.",
+  "iconURL": "https://raw.githubusercontent.com/thebcd69/bcd-games/main/app/Madeira/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png",
+  "website": "https://github.com/thebcd69/bcd-games",
+  "tintColor": "7057D9",
+  "apps": [
+    {
+      "name": "BCD",
+      "bundleIdentifier": "com.thebcd69.bcd",
+      "developerName": "thebcd69",
+      "localizedDescription": "Run Windows games on iPhone and iPad with Steam, GOG and Epic Games support. BCD is a fork of Madeira. Requires iOS/iPadOS 18 or later, an A13 chip or newer, and JIT. This unofficial source links directly to upstream IPA releases.",
+      "iconURL": "https://raw.githubusercontent.com/thebcd69/bcd-games/main/app/Madeira/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png",
+      "tintColor": "7057D9",
+      "minOSVersion": "18.0",
+      "source": {
+        "mode": "releases",
+        "repo": "thebcd69/bcd-games",
+        "ipaAssetPattern": "(?i)^BCD\\.ipa$"
+      }
+    }
+  ]
+}

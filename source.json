@@ -1,0 +1,70 @@
+{
+  "name": "BCD",
+  "identifier": "com.gilmatsliah.bcd.source",
+  "iconURL": "https://raw.githubusercontent.com/thebcd69/bcd-games/main/app/Madeira/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png",
+  "tintColor": "7057D9",
+  "subtitle": "Unofficial AltStore and SideStore source for BCD",
+  "description": "Unofficial source tracking IPA releases from thebcd69/bcd-games. Downloads come directly from the upstream repository.",
+  "website": "https://github.com/thebcd69/bcd-games",
+  "apps": [
+    {
+      "name": "BCD",
+      "bundleIdentifier": "com.thebcd69.bcd",
+      "developerName": "thebcd69",
+      "localizedDescription": "Run Windows games on iPhone and iPad with Steam, GOG and Epic Games support. BCD is a fork of Madeira. Requires iOS/iPadOS 18 or later, an A13 chip or newer, and JIT. This unofficial source links directly to upstream IPA releases.",
+      "iconURL": "https://raw.githubusercontent.com/thebcd69/bcd-games/main/app/Madeira/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png",
+      "tintColor": "7057D9",
+      "versions": [
+        {
+          "version": "0.1.592",
+          "date": "2026-10-23",
+          "downloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.592/BCD.ipa",
+          "size": 167537815,
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.1.580",
+          "date": "2026-10-22",
+          "downloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.580/BCD.ipa",
+          "size": 164196922,
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.1.579",
+          "date": "2026-10-21",
+          "downloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.579/BCD.ipa",
+          "size": 163687481,
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.1.578",
+          "date": "2026-10-21",
+          "downloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.578/BCD.ipa",
+          "size": 165281667,
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.1.576",
+          "date": "2026-10-21",
+          "downloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.576/BCD.ipa",
+          "size": 164968507,
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.1.574",
+          "date": "2026-10-19",
+          "downloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.574/BCD.ipa",
+          "size": 164679993,
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.1.573",
+          "date": "2026-10-19",
+          "downloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.573/BCD.ipa",
+          "size": 164662046,
+          "minOSVersion": "18.0"
+        }
+      ]
+    }
+  ]
+}
