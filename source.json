@@ -16,6 +16,13 @@
       "tintColor": "7057D9",
       "versions": [
         {
+          "version": "0.1.665",
+          "date": "2026-11-15",
+          "downloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.665/BCD.ipa",
+          "size": 222775641,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1.659",
           "date": "2026-11-14",
           "downloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.659/BCD.ipa",
